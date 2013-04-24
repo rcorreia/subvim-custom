@@ -7,3 +7,6 @@
 [submodule "vim-javascript"]
 	path = vim-javascript
 	url = https://github.com/pangloss/vim-javascript.git
+[submodule "zencoding-vim"]
+	path = zencoding-vim
+	url = https://github.com/mattn/zencoding-vim.git
