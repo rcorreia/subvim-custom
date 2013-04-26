@@ -9,5 +9,8 @@ set autoindent
 filetype plugin on
 filetype indent on
 
-"" turn on syntax highlighting
+" turn on syntax highlighting
 syntax on
+
+" vim-go plugin
+set rtp+=$GOROOT/misc/vim
