@@ -1,18 +1,24 @@
 [submodule "vim-ruby"]
 	path = vim-ruby
 	url = https://github.com/vim-ruby/vim-ruby.git
+	ignore = dirty
 [submodule "vim-ruby-sinatra"]
 	path = vim-ruby-sinatra
 	url = https://github.com/hallison/vim-ruby-sinatra.git
+	ignore = dirty
 [submodule "vim-javascript"]
 	path = vim-javascript
 	url = https://github.com/pangloss/vim-javascript.git
+	ignore = dirty
 [submodule "zencoding-vim"]
 	path = zencoding-vim
 	url = https://github.com/mattn/zencoding-vim.git
+	ignore = dirty
 [submodule "vim-golang"]
 	path = vim-golang
 	url = https://github.com/jnwhiteh/vim-golang.git
+	ignore = dirty
 [submodule "indentLine"]
 	path = indentLine
 	url = https://github.com/Yggdroot/indentLine.git
+	ignore = dirty
