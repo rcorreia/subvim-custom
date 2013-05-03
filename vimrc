@@ -1,10 +1,10 @@
 " indent settings
 set shiftwidth=4
 set tabstop=4
-set expandtab
+set noexpandtab
 set autoindent
-autocmd FileType ruby setlocal shiftwidth=2 tabstop=2
-autocmd FileType html setlocal shiftwidth=2 tabstop=2
+autocmd FileType ruby setlocal shiftwidth=2 tabstop=2 expandtab
+autocmd FileType html setlocal shiftwidth=2 tabstop=2 expandtab
 
 " load ftplugins and indent files
 filetype plugin on
