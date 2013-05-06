@@ -5,6 +5,7 @@ set noexpandtab
 set autoindent
 autocmd FileType ruby setlocal shiftwidth=2 tabstop=2 expandtab
 autocmd FileType html setlocal shiftwidth=2 tabstop=2 expandtab
+autocmd FileType css setlocal shiftwidth=2 tabstop=2 expandtab
 
 " load ftplugins and indent files
 filetype plugin on
