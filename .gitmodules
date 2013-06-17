@@ -26,3 +26,7 @@
 	path = vim-puppet
 	url = git://github.com/rodjek/vim-puppet.git
 	ignore = dirty
+[submodule "vim-haml"]
+	path = vim-haml
+	url = https://github.com/tpope/vim-haml.git
+	ignore = dirty
